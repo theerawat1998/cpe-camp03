@@ -1,0 +1,4 @@
+git add .เพิ่มไฟล์
+git commit -m "new file08/02/2018"ตั้งชื่อ
+git config --global user.email ล็อคอิน
+git pushล็อคอิน
